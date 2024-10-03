@@ -1,0 +1,18 @@
+.red{
+    background-color: black;
+    color: red;
+    padding:8px;
+}
+.green{
+    background-color: rgb(0, 255, 234);
+    color: green;
+    padding:12px;
+}
+.Input{
+    margin:10px;
+}
+
+.text{
+    color: blueviolet;
+    font-size: 20px;
+}

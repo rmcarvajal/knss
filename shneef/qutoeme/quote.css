@@ -1,0 +1,7 @@
+.quote-item{
+    display:flex;
+    flex-direction:row;
+}
+.container{
+    display:flex;
+}
